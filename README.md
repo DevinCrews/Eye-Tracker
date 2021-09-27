@@ -13,3 +13,5 @@ JAVA SCRIPT
 CSS
 ## How to run
 [Eye-Tracker](https://github.com/DevinCrews/Eye-Tracker)
+
+Follow the link download the three different files Index.html, Styles.css, and 
