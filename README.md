@@ -18,5 +18,8 @@ Follow the link download the three different files Index.html, Styles.css, and E
 
 Then open the Index file into a new browser and watch as the eyes follow your mouse.
 
+## Roadmap of future improvements
+Implement more circles some of which would chase the mouse cursor around the page while the others watch.
+
 ## license 
 [MIT License](https://github.com/DevinCrews/Eye-Tracker/blob/main/LICENSE)
