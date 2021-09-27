@@ -18,4 +18,4 @@ Follow the link download the three different files Index.html, Styles.css, and E
 
 Then open the Index file into a new browser and watch as the eyes follow your mouse.
 
-[Click Me]
+[Click Me](file:///C:/Users/Devin/Downloads/Eye%20Movement%20Assignment/index.html)
