@@ -14,4 +14,8 @@ CSS
 ## How to run
 [Eye-Tracker](https://github.com/DevinCrews/Eye-Tracker)
 
-Follow the link download the three different files Index.html, Styles.css, and 
+Follow the link download the three different files Index.html, Styles.css, and Eyes.js 
+
+Then open the Index file into a new browser and watch as the eyes follow your mouse.
+
+[Click Me]
