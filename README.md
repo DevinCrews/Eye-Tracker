@@ -13,4 +13,4 @@ JAVA SCRIPT
 CSS
 ## How to run
 ```
-[Eye-Tracker]
+[Eye-Tracker](https://github.com/DevinCrews/Eye-Tracker)
