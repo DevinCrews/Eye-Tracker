@@ -19,3 +19,4 @@ Follow the link download the three different files Index.html, Styles.css, and E
 Then open the Index file into a new browser and watch as the eyes follow your mouse.
 
 ## license 
+[MIT License](https://github.com/DevinCrews/Eye-Tracker/blob/main/LICENSE)
